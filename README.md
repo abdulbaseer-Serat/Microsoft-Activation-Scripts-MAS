@@ -37,11 +37,19 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 
   <br>
   
-### Use this method if you prefer downloading a file or cannot use the PowerShell method.
+## 📥 Offline Method
 
-  Step 1: Download file  
-  Step 2: Run manually  
-  Step 3: Finish ✅
+Use this method if you prefer downloading a file or cannot use the PowerShell method.
+
+### 1. Download the script
+
+- 📄 https://github.com/yourusername/yourrepo/releases/download/v1.0/MAS_AIO.cmd  
+- 📦 https://github.com/yourusername/yourrepo/releases/download/v1.0/MAS_AIO.zip  
+
+### 2. Run the `MAS_AIO.cmd` file
+
+### 3. Select one of the **Green** options from the menu
+
 
 </details>
 
