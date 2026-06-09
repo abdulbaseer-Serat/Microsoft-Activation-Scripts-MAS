@@ -42,8 +42,8 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 
 1. Download the script:
 
-- [MAS_AIO.cmd]([MAS_AIO.cmd](https://github.com/abdulbaseer-Serat/Microsoft-Activation-Scripts-MAS/blob/c555db509afdbca0bbebbb7752c33a579d4993ed/MAS_AIO.cmd)) (Direct script)  
-- [MAS_AIO.zip](https://github.com/yourusername/yourrepo/releases/download/v1.0/MAS_AIO.cmd) (If the direct script is blocked by your browser)
+- [MAS_AIO.cmd](sha256:d94b1abcba24d26c5fbe114a15b53a558684d74a1accff79bbb2407be7102a89) (Direct script)  
+- [MAS_AIO.zip](sha256:fb5519fc11e4cb5b9655b823d841e25d7c25cd245014be2750372dc40328c92f) (If the direct script is blocked by your browser)
 
 2. Run the `MAS_AIO.cmd` file.
 
