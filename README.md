@@ -29,22 +29,20 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 > - **Having trouble?** visit to [ troubleshooting page](https://massgrave.dev/troubleshoot)
   
 </details>
----
 
-# Features
+## Features
 
-    - **HWID (Digital License):** Permanently activate Windows.
-    - **Ohook:** Permanently activate Office.
-    - TSforge: Permanently activate Windows, ESU, and Office.
-    Online KMS: Activate Windows/Office for 180 days (Lifetime with renewal task).
-    Advanced activation troubleshooting.
-    $OEM$ folders for pre-activation.
-    Change Windows edition.
-    Change Office edition.
-    Check Windows/Office activation status.
-    Available in All-In-One and separate file versions.
-    Fully open source and based on batch scripts.
-    Fewer antivirus detections.
+- **HWID (Digital License):** Permanently activate Windows.  
+- **Ohook:** Permanently activate Office.  
+- **TSforge:** Permanently activate Windows, ESU, and Office.  
+- **Online KMS:** Activate Windows/Office for 180 days (lifetime with renewal task).  
+- Advanced activation troubleshooting.  
+- `$OEM$` folders for pre-activation.  
+- Change Windows edition.  
+- Change Office edition.  
+- Check Windows/Office activation status.  
+- Available in All-In-One and separate file versions.  
+- Fully open source and based on batch scripts.
 
 
 <details>
