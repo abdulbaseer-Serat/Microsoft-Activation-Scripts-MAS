@@ -17,11 +17,19 @@ An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and 
 ```powershell
 irm https://get.activated.win | iex
 ```
- 3. In the menu that appears, type the number corresponding to one of the Green options.
+If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11): 
  ```powershell
 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
 ```   
+3. In the menu that appears, type the number corresponding to one of the Green options.
 
+> 💡 **TIP**
+>
+> Some ISPs/DNS providers block access to our domains.  
+> You can bypass this by enabling **DNS-over-HTTPS (DoH)** in your browser.
+>
+> - **Having trouble?** Connect with us [here](#)
+   
 </details>
 
 <details>
