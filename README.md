@@ -16,7 +16,7 @@ An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and 
 
 ```powershell
 irm https://get.activated.win | iex
-
+```
  
 
 </details>
