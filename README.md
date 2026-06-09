@@ -17,7 +17,10 @@ An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and 
 ```powershell
 irm https://get.activated.win | iex
 ```
- 
+ 3. In the menu that appears, type the number corresponding to one of the Green options.
+ ```powershell
+iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+```   
 
 </details>
 
