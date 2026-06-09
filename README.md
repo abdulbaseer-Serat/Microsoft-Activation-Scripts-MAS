@@ -1,5 +1,8 @@
 # Microsoft-Activation-Scripts-MAS-
 An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+#Activation Methods
+
 <details>
   <summary style="font-size:16px; font-weight:bold; color:#7b2cbf;">
     ▶ Method 1: PowerShell (Recommended)
@@ -7,8 +10,11 @@ An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and 
 
   <br>
 
-  👉 Instructions go here  
-  ✔ Step-by-step guide  
+ ## This method is the most convenient and works on Windows 8.1, 10, and 11.
+
+    Click the Start Menu, type PowerShell, and open it.
+    Copy and paste the code below and press Enter.
+ 
 
 </details>
 
