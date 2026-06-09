@@ -30,6 +30,19 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
   
 </details>
 
+
+
+<details>
+  <summary><b>▶ Method 2: Traditional (Offline)</b></summary>
+
+  <br>
+### Use this method if you prefer downloading a file or cannot use the PowerShell method.
+  Step 1: Download file  
+  Step 2: Run manually  
+  Step 3: Finish ✅
+
+</details>
+
 ## Features
 
 - **HWID (Digital License):** Permanently activate Windows.  
@@ -43,15 +56,5 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 - Check Windows/Office activation status.  
 - Available in All-In-One and separate file versions.  
 - Fully open source and based on batch scripts.
+- Fewer antivirus detections.
 
-
-<details>
-  <summary><b>▶ Method 2: Traditional (Offline)</b></summary>
-
-  <br>
-
-  Step 1: Download file  
-  Step 2: Run manually  
-  Step 3: Finish ✅
-
-</details>
