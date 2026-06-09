@@ -43,13 +43,16 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 1. Download the script:
 
 - [MAS_AIO.cmd](https://github.com/yourusername/yourrepo/releases/download/v1.0/MAS_AIO.cmd) (Direct script)  
-- https://github.com/yourusername/yourrepo/releases/download/v1.0/MAS_AIO.zip (If the direct script is blocked by your browser)
+- [MAS_AIO.zip](https://github.com/yourusername/yourrepo/releases/download/v1.0/MAS_AIO.cmd) (If the direct script is blocked by your browser)
 
 2. Run the `MAS_AIO.cmd` file.
 
 3. In the menu that appears, type the number corresponding to one of the **Green** options.
 
-
+> 💡 **TIP**
+>
+> - Some ISPs/DNS providers block access to our domains.  You can bypass this by enabling **[DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/)** in your browser.
+> - **Having trouble?** visit to [troubleshooting page](https://massgrave.dev/troubleshoot)
 
 
 </details>
