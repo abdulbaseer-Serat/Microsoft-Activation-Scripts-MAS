@@ -1,13 +1,14 @@
 # Microsoft-Activation-Scripts-MAS-
 An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 <details>
-  <summary><b>▶ Method 1: PowerShell (Recommended)</b></summary>
+  <summary style="font-size:16px; font-weight:bold; color:#7b2cbf;">
+    ▶ Method 1: PowerShell (Recommended)
+  </summary>
 
   <br>
 
-  Step 1: Open PowerShell  
-  Step 2: Run command  
-  Step 3: Done ✅
+  👉 Instructions go here  
+  ✔ Step-by-step guide  
 
 </details>
 
