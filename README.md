@@ -72,3 +72,9 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 - Fully open source and based on batch scripts.
 - Fewer antivirus detections.
 
+---
+## 🧑‍💻 Developer
+
+Abdulbaseer Serat - MS in Computer Sciences · Abasyn University · CodeAlpha Intern  [GitHub](https://github.com/abdulbaseer-Serat) · [LinkedIn](https://linkedin.com/in/abdul-basir-serat-65b8201ab) · info.abdulbasir@gmail.com
+
+---
