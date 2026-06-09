@@ -36,7 +36,9 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
   <summary><b>▶ Method 2: Traditional (Offline)</b></summary>
 
   <br>
+  
 ### Use this method if you prefer downloading a file or cannot use the PowerShell method.
+
   Step 1: Download file  
   Step 2: Run manually  
   Step 3: Finish ✅
