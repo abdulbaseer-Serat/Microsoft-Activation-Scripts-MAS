@@ -30,7 +30,9 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
   
 </details>
 ---
+
 # Features
+
     - **HWID (Digital License):** Permanently activate Windows.
     - **Ohook:** Permanently activate Office.
     - TSforge: Permanently activate Windows, ESU, and Office.
