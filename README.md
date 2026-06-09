@@ -27,8 +27,23 @@ iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win |
 >
 > - Some ISPs/DNS providers block access to our domains.  You can bypass this by enabling **[DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/)** in your browser.
 > - **Having trouble?** visit to [ troubleshooting page](https://massgrave.dev/troubleshoot)
-   
+  
 </details>
+---
+# Features
+    - **HWID (Digital License):** Permanently activate Windows.
+    - **Ohook:** Permanently activate Office.
+    - TSforge: Permanently activate Windows, ESU, and Office.
+    Online KMS: Activate Windows/Office for 180 days (Lifetime with renewal task).
+    Advanced activation troubleshooting.
+    $OEM$ folders for pre-activation.
+    Change Windows edition.
+    Change Office edition.
+    Check Windows/Office activation status.
+    Available in All-In-One and separate file versions.
+    Fully open source and based on batch scripts.
+    Fewer antivirus detections.
+
 
 <details>
   <summary><b>▶ Method 2: Traditional (Offline)</b></summary>
